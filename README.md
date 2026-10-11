@@ -38,4 +38,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0064-minimum-path-sum) |
+## Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0703-kth-largest-element-in-a-stream) |
+## Design
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0703-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0703-kth-largest-element-in-a-stream) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0703-kth-largest-element-in-a-stream) |
+## Binary Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0703-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
