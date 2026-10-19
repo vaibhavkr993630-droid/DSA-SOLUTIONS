@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0064-minimum-path-sum) |
+| [0347-top-k-frequent-elements](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0846-hand-of-straights) |
 | [1331-rank-transform-of-an-array](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/1331-rank-transform-of-an-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0846-hand-of-straights) |
 | [1331-rank-transform-of-an-array](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/1331-rank-transform-of-an-array) |
@@ -84,12 +87,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0846-hand-of-straights) |
 | [1331-rank-transform-of-an-array](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/1331-rank-transform-of-an-array) |
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0621-task-scheduler) |
 ## Linked List
 |  |
@@ -99,4 +104,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
