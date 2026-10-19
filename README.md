@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0846-hand-of-straights) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Bracket Sequences
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0064-minimum-path-sum) |
 | [0621-task-scheduler](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0846-hand-of-straights) |
 | [1331-rank-transform-of-an-array](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/1331-rank-transform-of-an-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Dynamic Programming
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0846-hand-of-straights) |
 | [1331-rank-transform-of-an-array](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/1331-rank-transform-of-an-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Bit Manipulation
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0846-hand-of-straights) |
 | [1331-rank-transform-of-an-array](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/1331-rank-transform-of-an-array) |
 ## Counting
 |  |
