@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0301-remove-invalid-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2409-count-days-spent-together](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/2409-count-days-spent-together) |
 ## Backtracking
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2409-count-days-spent-together](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/2409-count-days-spent-together) |
 | [3886-sum-of-sortable-integers](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/3886-sum-of-sortable-integers) |
 ## Enumeration
 |  |
