@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0301-remove-invalid-parentheses) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Stack
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0846-hand-of-straights) |
 | [1331-rank-transform-of-an-array](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/1331-rank-transform-of-an-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3886-sum-of-sortable-integers](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/3886-sum-of-sortable-integers) |
 ## Dynamic Programming
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0064-minimum-path-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Tree
 |  |
 | ------- |
@@ -134,4 +137,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3886-sum-of-sortable-integers](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/3886-sum-of-sortable-integers) |
+## Depth-First Search
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Union-Find
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
