@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0301-remove-invalid-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2409-count-days-spent-together](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/2409-count-days-spent-together) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/3886-sum-of-sortable-integers) |
 ## Dynamic Programming
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0703-kth-largest-element-in-a-stream) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Design
 |  |
 | ------- |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sorting
 |  |
@@ -124,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -145,8 +150,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
 |  |
 | ------- |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
