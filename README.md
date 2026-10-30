@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2409-count-days-spent-together](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/2409-count-days-spent-together) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/3841-palindromic-path-queries-in-a-tree) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Backtracking
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0703-kth-largest-element-in-a-stream) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Binary Tree
 |  |
 | ------- |
@@ -170,4 +172,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1251-average-selling-price](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/1251-average-selling-price) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1757-recyclable-and-low-fat-products](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/1757-recyclable-and-low-fat-products) |
+## Graph Theory
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
