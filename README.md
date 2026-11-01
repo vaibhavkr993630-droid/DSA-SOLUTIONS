@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0064-minimum-path-sum) |
 | [0347-top-k-frequent-elements](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0621-task-scheduler](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0846-hand-of-straights) |
 | [1331-rank-transform-of-an-array](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/1331-rank-transform-of-an-array) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [2409-count-days-spent-together](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/2409-count-days-spent-together) |
 | [3886-sum-of-sortable-integers](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/3886-sum-of-sortable-integers) |
 ## Enumeration
