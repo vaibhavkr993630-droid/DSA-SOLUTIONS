@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0846-hand-of-straights) |
 | [1331-rank-transform-of-an-array](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/1331-rank-transform-of-an-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/3665-twisted-mirror-path-count) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0064-minimum-path-sum) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Matrix
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0703-kth-largest-element-in-a-stream) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Binary Tree
 |  |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0846-hand-of-straights) |
 | [1331-rank-transform-of-an-array](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/1331-rank-transform-of-an-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -152,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2409-count-days-spent-together](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/2409-count-days-spent-together) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3886-sum-of-sortable-integers](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/3886-sum-of-sortable-integers) |
 ## Enumeration
@@ -190,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 <!---LeetCode Topics End-->
