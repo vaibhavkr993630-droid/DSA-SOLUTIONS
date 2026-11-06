@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0846-hand-of-straights) |
 | [1331-rank-transform-of-an-array](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0846-hand-of-straights) |
 | [1331-rank-transform-of-an-array](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/1331-rank-transform-of-an-array) |
+| [2747-count-zero-request-servers](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Bit Manipulation
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0846-hand-of-straights) |
 | [1331-rank-transform-of-an-array](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/2747-count-zero-request-servers) |
 | [3886-sum-of-sortable-integers](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/3886-sum-of-sortable-integers) |
 ## Counting
 |  |
@@ -202,5 +205,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [2747-count-zero-request-servers](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 <!---LeetCode Topics End-->
