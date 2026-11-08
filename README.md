@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0301-remove-invalid-parentheses) |
+| [1267-count-servers-that-communicate](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Stack
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0621-task-scheduler](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0846-hand-of-straights) |
+| [1267-count-servers-that-communicate](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/1267-count-servers-that-communicate) |
 | [1331-rank-transform-of-an-array](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/2747-count-zero-request-servers) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0064-minimum-path-sum) |
+| [1267-count-servers-that-communicate](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/0621-task-scheduler) |
+| [1267-count-servers-that-communicate](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/1267-count-servers-that-communicate) |
 ## Linked List
 |  |
 | ------- |
@@ -173,11 +177,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vaibhavkr993630-droid/DSA-SOLUTIONS/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Indexed Tree
 |  |
